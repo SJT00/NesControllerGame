@@ -1,2 +1,2 @@
 # NesControllerGame
-A space invader game, built for an Nes controller, made in my tech course using an Arduino.
+A space invader clone made in pygame, built for Nes controller compatibility using an Arduino.
